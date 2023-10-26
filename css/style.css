@@ -1,0 +1,124 @@
+header{
+    background-color: rgb(119, 35, 184);
+    width: auto;
+    height: 50px;
+    
+}
+
+div{
+    overflow-x: auto;
+
+
+
+}
+
+h2{
+   color: rgb(218, 250, 215); 
+   text-align: center;
+   font-family: ;
+   text-shadow: 1px 1px;
+}
+
+   
+
+table {
+    border-collapse: collapse;
+   border: 1px solid burlywood;
+   width: 900px;
+   height: 990px;
+}
+
+
+#A {
+    background-color: aquamarine;
+    border: 1px solid burlywood;
+    
+}
+
+#B {
+background-color: aqua;
+border: 1px solid burlywood;
+}
+
+#C {
+    background-color:yellow;
+    border: 1px solid burlywood;
+}
+
+#D {
+    background-color: aliceblue;
+    border: 1px solid burlywood;
+    
+}
+
+#E{
+    background-color: rgba(255, 0, 0, 0.819) ;
+    border: 1px solid burlywood;
+}
+
+#F{
+    background-color: rgba(255, 94, 0, 0.937);
+  
+    border: 1px solid burlywood;
+    
+}
+#G{
+    background-color: firebrick;
+    border: 1px solid burlywood;
+}
+
+#H{
+    background-color: rgb(197, 81, 32);
+    border: 1px solid burlywood;
+}
+
+#I{
+    background-color: rgba(0, 0, 0, 0.947);
+    color: rgb(171, 236, 7);
+    border: 1px solid burlywood;
+
+}
+
+#J{
+    background-color: rgba(0, 0, 0, 0.737);
+    border: 1px solid burlywood;
+}
+
+#K{
+    background-color:rgba(7, 138, 238, 0.911) ;
+    border: 1px solid burlywood;
+}
+
+#L{
+    background-color: rgba(9, 135, 238, 0.959);
+    border: 1px solid burlywood;
+}
+
+#M{
+    background-color: rgb(4, 160, 4);
+    border: 1px solid burlywood;
+}
+
+#N{
+    background-color: rgb(32, 153, 2);
+    border: 1px solid burlywood;
+}
+
+#O{
+    background-color: rgba(235, 251, 7, 0.94);
+    border: 1px solid burlywood;
+}
+
+#P{
+    background-color:rgb(22, 185, 235);
+    border: 1px solid burlywood;
+}
+
+footer{
+    background-color: rgb(119, 35, 184);
+    width: auto;
+    height: 50px;
+    
+
+}
+
